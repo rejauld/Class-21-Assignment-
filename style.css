@@ -1,0 +1,39 @@
+body, h1, h2, h3, h4, h5, h6, a, p, span{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.navbar{
+    background: #e3f2fd;
+}
+
+
+
+
+
+/* =======carousel-section========= */
+
+.carousel-item img{
+    height: 600px;
+}
+
+
+
+
+/* =========Table & Form Section========= */
+
+.table-section{
+    background: #f8f9fa;
+}
+
+.table-section h3{
+    color: #248765;
+    margin-bottom: 20px;
+}
+
+
+
+/* Card (Stretched-link) */
+.card-stretched{
+    background: #f8f9fa;
+}
